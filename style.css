@@ -147,3 +147,23 @@ nav a:hover {
     color: #38bdf8;
     text-decoration: none;
 }
+.papers-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.papers-list li {
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+.papers-list li a {
+    text-decoration: none;
+    color: #00aaff;
+    font-weight: 500;
+}
+
+.papers-list li a:hover {
+    text-decoration: underline;
+}
+
